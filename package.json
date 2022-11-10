@@ -16,5 +16,17 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^11.0.1"
+  },
+  "config": {
+    "commitizenEmoji": {
+      "types": [
+        {
+          "emoji": "😱",
+          "code": ":scream:",
+          "description": "I don't understand a bit in all this code.",
+          "name": "wtf"
+        }
+      ]
+    }
   }
 }
