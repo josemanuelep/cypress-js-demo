@@ -1,0 +1,20 @@
+{
+  "name": "cypress-js-demo",
+  "version": "1.0.0",
+  "description": "Test automation demo over cypress.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "js",
+    "automation"
+  ],
+  "author": "jomanuepa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.0.1"
+  }
+}
