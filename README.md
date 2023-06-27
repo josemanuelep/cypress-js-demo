@@ -1,5 +1,6 @@
 # Cypress.js learning 
 
+
 ## Establishing Best Practices
 
 - Select the type and breadth of tests to implement
